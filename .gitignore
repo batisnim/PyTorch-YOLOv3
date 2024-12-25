@@ -16,3 +16,8 @@ checkpoints/
 logs/
 
 .python-version
+*.pt
+*.pth
+*.weights
+*.jpg
+*.conv.*
